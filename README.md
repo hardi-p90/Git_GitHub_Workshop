@@ -1,1 +1,1 @@
-# Git Github Wortkshop
+# Git Github Workshop
